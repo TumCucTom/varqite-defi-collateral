@@ -1,0 +1,14 @@
+qiskit==0.45.2
+qiskit-algorithms==0.2.2
+qiskit-aer==0.13.3
+qiskit-ionq==0.4.0
+networkx==3.2.1
+numpy==1.24.4
+scipy==1.11.4
+pandas==2.1.4
+gql==3.5.0
+graphql-core==3.2.3
+matplotlib==3.8.2
+plotly==5.17.0
+streamlit==1.29.0
+requests-toolbelt==1.0.0 
